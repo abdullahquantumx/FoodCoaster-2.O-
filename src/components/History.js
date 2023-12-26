@@ -26,15 +26,6 @@ const History = () => {
     fetchOrders();
   }, [data.current]);
 
-  const clearHistory = () => {
-    const isConfirmed = window.confirm(
-      "Are you sure you want to clear the order history?"
-    );
-    if (isConfirmed) {
-      localStorage.removeItem("orderHistory");
-      setOrderHistory([]);
-    }
-  };
 
   return (
     <div className="bg-blue-500 flex flex-col min-h-screen w-screen">
@@ -55,9 +46,9 @@ const History = () => {
                       <p>Quantity: {item.quantity}</p>
                       <p>Price: {item.price}</p>
                       <p>Amount: {item.amount}</p>
-                      <p>Restaurant: {item.Restaurant}</p>
                     </div>
                   ))}
+                  <p>Restaurant: {order.Restaurant}</p>
                   <p>Total Price: ${order.totalPrice}</p>
                 </div>
               </li>
@@ -65,12 +56,7 @@ const History = () => {
           </ul>
         )}
       </div>
-      <button
-        onClick={clearHistory}
-        className="bg-red-500 text-white rounded-full hover:bg-red-700 px-4 py-2 ml-auto mr-16 mb-20"
-      >
-        Clear History
-      </button>
+      
     </div>
   );
 };
