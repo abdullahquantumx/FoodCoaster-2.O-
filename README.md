@@ -11,6 +11,7 @@ At NIT Rourkela, the prevalent issue of prolonged waiting times at on-campus res
 
 ### HERE IS THE LINK OF MY PROJECT WHICH YOU CAN ENROLL :
 https://foodcoaster.onrender.com/
+<p>!! if it fails to load at first then re-try after a minute !!</p>
 
 
 
