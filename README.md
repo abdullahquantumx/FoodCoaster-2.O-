@@ -9,7 +9,10 @@ At NIT Rourkela, the prevalent issue of prolonged waiting times at on-campus res
 
 <img src="https://github.com/abdullahquantumx/FoodCoaster-2.O-/assets/137316478/2dd1cce3-038c-4a3e-af72-fece081d74a0" alt="img" >
 
-### HERE IS THE LINK OF MY PROJECT WHICH YOU CAN ENROLL :
+### TECHNOLOGIES USED 
+<p> REACT JS  |  MONGO CLOUD  |  EXPRESS  |  NODE JS  |  TAILWIND CSS</p>
+
+### HERE IS THE LINK OF MY PROJECT WHICH YOU CAN ENROLL 
 https://foodcoaster.onrender.com/
 <p>!! if it fails to load at first then re-try after a minute !!</p>
 
