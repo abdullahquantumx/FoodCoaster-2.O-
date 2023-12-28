@@ -13,7 +13,7 @@ At NIT Rourkela, the prevalent issue of prolonged waiting times at on-campus res
 <p> REACT JS  |  MONGO CLOUD  |  EXPRESS  |  NODE JS  |  TAILWIND CSS</p>
 
 ### HERE IS THE LINK OF MY PROJECT WHICH YOU CAN ENROLL 
-https://foodcoaster.onrender.com/
+http://foodcoaster.netlify.app
 <p>!! if it fails to load at first then re-try after a minute !!</p>
 
 
